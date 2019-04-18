@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("TrueLab Studio")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("TrueLab Inc.")]
 [assembly: AssemblyProduct("TrueLab Studio")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Matveev Vladimir ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
